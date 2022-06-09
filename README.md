@@ -2,7 +2,7 @@
 
 ---
 
-I am a FrontEnd Developer and a student inn 🖤
+I am a FrontEnd Developer and a system college student 🖤
 
  🌱 I’m currently learning JavaScript
  
@@ -31,7 +31,7 @@ I am a FrontEnd Developer and a student inn 🖤
 ---
 
 ### 2022 Goal 🎓
-Dominate ReactJS, Firebase and Google Cloud
+Dominate ReactJS ⚛️, Firebase 🔥 and Google Cloud 🌩️
 
 ---
 
@@ -44,6 +44,6 @@ Dominate ReactJS, Firebase and Google Cloud
 
 ---
 
-Thanks for passing by 👨‍💻😁✌
+### Thanks for passing by 👨‍💻😁✌
 
 
