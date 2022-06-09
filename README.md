@@ -2,7 +2,7 @@
 
 ---
 
-I am a FrontEnd Developer 🖤
+I am a FrontEnd Developer and a student inn 🖤
 
  🌱 I’m currently learning JavaScript
  
@@ -25,7 +25,7 @@ I am a FrontEnd Developer 🖤
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 
-### Other Languages I know
+### Other Languages I know 
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 ---
