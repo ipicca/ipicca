@@ -33,14 +33,6 @@ I am a FrontEnd Developer and a system college student 🖤
 ### 2022 Goal 🎓
 Dominate ReactJS ⚛️, Firebase 🔥 and Google Cloud 🌩️
 
----
-
-### Get in touch 🌍
-<img align="left" alt="[IgnacioPicca | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
-<img align="left" alt="IgnacioPicca | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="IgnacioPicca | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-
-<br>
 
 ---
 
