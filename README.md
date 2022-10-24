@@ -31,7 +31,7 @@ I am a FrontEnd Developer and a system college student 🖤
 ---
 
 ### 2022 Goal 🎓
-Dominate ReactJS ⚛️, Firebase 🔥 and Google Cloud 🌩️
+Dominate ReactJS ⚛️, Redux 🌩️ and Firebase 🔥
 
 
 ---
