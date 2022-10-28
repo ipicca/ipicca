@@ -6,7 +6,7 @@ I am a FrontEnd Developer and a system college student 🖤
 
  🌱 I’m currently learning JavaScript
  
- :books: I want to learn ReactJS and Google Cloud ☁️
+ :books: I want to learn ReactJS and React Native ⚛️
  
  💬 Ask me about Cryptos, Games, and any Tech-related stuff.
 
