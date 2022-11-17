@@ -4,9 +4,9 @@
 
 I am a FrontEnd Developer and a system college student 🖤
 
- 🌱 I’m currently learning JavaScript
+ 🌱 I’m currently learning JavaScript on Coderhouse & FreeCodeCamp.
  
- :books: I want to learn ReactJS and React Native ⚛️
+ :books: I want to learn ReactJS & React Native ⚛️
  
  💬 Ask me about Cryptos, Games, and any Tech-related stuff.
 
