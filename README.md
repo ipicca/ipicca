@@ -4,9 +4,9 @@
 
 I am a FrontEnd Developer and a system college student 🖤
 
- 🌱 I’m currently learning JavaScript at Coderhouse & FreeCodeCamp.
+ 🌱 I’m currently learning React JS at Coderhouse & C# at Education IT.
  
- :books: I want to learn ReactJS & React Native ⚛️
+ :books: I want to learn .NET & SQL ⚛️
  
  💬 Ask me about Cryptos, Games, and any Tech-related stuff.
 
@@ -30,8 +30,8 @@ I am a FrontEnd Developer and a system college student 🖤
 
 ---
 
-### 2022 Goal 🎓
-Dominate ReactJS ⚛️, Redux 🌩️ and Firebase 🔥
+### 2023 Goal 🎓
+Dominate C# ⚛️, .NET 🌩️ and SQL 🔥
 
 
 ---
