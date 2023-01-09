@@ -6,7 +6,7 @@ I am a FrontEnd Developer and a system college student 🖤
 
  🌱 I’m currently learning React JS at Coderhouse & C# at Udemy and Education IT.
  
- :books: I want to learn .NET & SQL ⚛️
+ :books: I want to learn .NET & SQL
  
  💬 Ask me about Cryptos, Games, and any Tech-related stuff.
 
@@ -31,7 +31,7 @@ I am a FrontEnd Developer and a system college student 🖤
 ---
 
 ### 2023 Goal 🎓
-Dominate C# 🟣, .NET 🌩️ & SQL 🔥
+Dominate C#, .NET 🌩️ & SQL 🔥
 
 
 ---
