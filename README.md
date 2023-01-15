@@ -11,7 +11,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IgnacioPicca&theme=dark&hide_border=false)
 
 <br>
-# 🎓 2023 Goal
+
+## 🎓 2023 Goal
 
 Dominate C#, .NET 🌩️ & SQL 🔥
 
