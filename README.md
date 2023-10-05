@@ -8,7 +8,7 @@
 <br>
 # 📊 GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=IgnacioPicca&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ipicca&theme=dark&hide_border=false)
 
 <br>
 
