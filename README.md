@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👨🏽‍💻 Working at División Informática as a Junior DevOps Engineer. <br>📚 Currently learning Django, Ansible and Linux.<br>🎯 Dominate Jenkins, Docker, Kubernetes and Terraform.</p>
+<p align="left">👨🏽‍💻 Working at División Informática as a Junior DevOps. <br>📚 Currently learning Django, Ansible and Linux.<br>🎯 Dominate Jenkins, Docker, Kubernetes and Terraform.</p>
 
 ###
 
