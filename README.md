@@ -79,8 +79,3 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/ipicca/ipicca/output/snake.svg" alt="Snake animation" />
-
-###
