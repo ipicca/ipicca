@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👨🏽‍💻 Web developer working at División Informática as a Junior DevOps. <br>📚 Currently learning Django, Jenkins and Linux.<br>🎯 Dominate Ansible, Docker, Kubernetes and Terraform.</p>
+<p align="left">👨🏽‍💻 Web developer working at División Informática as a Junior DevOps. <br>📚 Currently learning Docker, AWS and Linux.<br>🎯 Dominate Terraform, Kubernetes, AWS and CI/CD</p>
 
 ###
 
