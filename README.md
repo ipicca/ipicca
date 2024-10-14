@@ -46,11 +46,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ipicca&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ipicca&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M j[, Y]&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
 > "Automation is not a luxury, it's a necessity." - John Willis
